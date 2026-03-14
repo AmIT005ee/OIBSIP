@@ -57,11 +57,43 @@ This project helped me practice **frontend development, UI design, and interacti
 
 ---
 
-### 🔹 Task 3 – Temperature Converter
-A simple web application that converts temperatures between **Celsius, Fahrenheit, and Kelvin**.
-comming soon...
+### 🔹 Task 3 – 🌡️ Temperature Converter
 
+A simple and interactive **Temperature Converter Web Application** built using **HTML, CSS, and JavaScript**.
+This project allows users to convert temperature values between **Celsius, Fahrenheit, and Kelvin** instantly.
+
+## 🚀 Features
+
+* Convert temperature between **Celsius, Fahrenheit, and Kelvin**
+* **Live conversion** while typing
+* **Swap units** functionality
+* **Input validation**
+* Clean and responsive UI
+
+## 🛠️ Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+## 📂 Project Structure
+
+```
+Task3_TempConverter
+│
+├── index.html
+├── style.css
+├── app.js
+└── README.md
+```
+
+## 🎯 Internship Task
+
+This project was created as **Task 3** for the **Oasis Infobyte Web Development Internship (OIBSIP)**.
+
+## 🔗 Author
+
+**Amit Jangale**
 
 ---
 
-## 📂 Repository Structure
